@@ -1,0 +1,161 @@
+* {
+    margin: 0px;
+}
+
+.header{
+    background-color: blue;
+    text-align: center;
+    color: white;
+}
+.banner{
+    background-image: url("Banner.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    align-items: center;
+}
+
+.head2{
+    text-align: center;
+    background-color: burlywood;
+}
+.paragraph{
+    background-color: burlywood;
+    text-align: justify;
+    padding: 10px;
+}
+.box1{
+    width:33%;
+    height:300px;
+    background-image: url("CSE.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    float:left;
+}
+
+.boxtitle1{
+    background-color: black;
+    opacity: 0.5;
+    color: white;
+    text-align: center;
+    width : 100%;
+}
+
+.box2{
+    
+    width:33%;
+    height:300px;
+    background-image: url("https://images.indianexpress.com/2018/05/library.jpg");
+    background-repeat: no-repeat;
+    background-size: "cover";
+    float: left;
+    position: relative;
+
+}
+
+.boxtitle2{
+    background-color: black;
+    opacity: 0.5;
+    color: white;
+    text-align: center;
+    width : 100%;
+    position: absolute;
+    bottom: 0px;
+    
+}
+
+
+.box3{
+    width: 34%;
+    height:300px;
+    background-image: url("Biotech.jpg");
+    background-repeat: no-repeat;
+    background-size: "cover";
+    float: left;
+}
+
+.boxtitle3{
+    background-color: black;
+    opacity: 0.5;
+    color: white;
+    text-align: center;
+    width : 100%;
+}
+
+.campus{
+    background-color: burlywood;
+    text-align: justify;
+    width: 650px;
+    height: 250px;
+    padding: 50px;
+    float: left;
+}
+
+.box5{
+    background-image: url("Cafe.jpg");
+    width: 669px;
+    height:250px;
+    padding: 50px;
+    float: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.head3{
+    font-family: arial;
+    color: black;
+}
+
+.img{
+    background-image: url("Background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 49.4%;
+    height: 350px;
+    padding-bottom: 50px;
+    margin: auto;
+    float: left;
+}
+
+.container {
+    background-color: aliceblue;
+    border: 1px solid black;
+    font-family: arial;
+    color: arial;
+    width: 38%;
+    margin-top: 5%;
+    margin-left: 30%;
+    padding: 2%;
+}
+input[type=text], input[type=password] {
+    width: 90%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    border: none;
+    background: #f1f1f1;
+  }
+  
+  input[type=text]:focus, input[type=password]:focus {
+    background-color: #ddd;
+    outline: white;
+  }
+
+  .btn {
+    background-color: blue;
+    color: white;
+    padding: 16px 20px;
+    border-radius: 12px;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+  }
+
+  .drone{
+    background-color: burlywood;
+    text-align: justify;
+    width: 44%;
+    float: right;
+    padding:50px;
+    height: 300px;
+}
+
